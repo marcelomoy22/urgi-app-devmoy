@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CASCO</string>
+    <string name="CodePushDeploymentKey" moduleConfig="true" ></string>    
+    <string name="facebook_app_id">1053014741467039</string>
+</resources>

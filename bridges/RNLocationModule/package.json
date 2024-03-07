@@ -1,0 +1,14 @@
+{
+  "name": "@siliconsocket/react-native-location-module",
+  "version": "1.0.0",
+  "description": "location module for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react-native": ">= 0.36.0"
+  },
+  "author": "Miguel Muñiz",
+  "license": "ISC"
+}
